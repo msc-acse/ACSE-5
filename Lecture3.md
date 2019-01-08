@@ -18,14 +18,13 @@
 - std::map and std::multimap
 - std::set and std::multiset
 
-### Execution modalities
-- What is "to debug"? - Why debug? ::bug::
+### Execution modalities ::bug::
+- What is "to debug"? - Why debug? 
 - How do I debug my code? (old school vs. current methods)
 - What is a debugger and what is it used for?
 - *assert*
 - Preconditioners (Project settings)
 - Debug vs. Release
-
 - Deployment
 
 ### Plotting with C++ (Gnuplot). 
