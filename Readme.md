@@ -16,7 +16,7 @@ In preparation for your ACSE-5 lecture on “Advanced Programming” I have the 
 - Creator of C++ Bjarne Stroustrup (http://www.stroustrup.com)
 - C++ "deity" Scott Meyers (http://www.aristeia.com) See books: Effective C++, More Effective C++, Effective STL
 
-## For Book Lovers
+## Reference Books
 
 For those that love the touch of paper, we suggest:
 - Stanley Lippman, Josée Lajoie, and Barbara E. Moo: C++ Primer (updated for C++11) Fifth edition (2012). Addison Wesley. 976 pages.
