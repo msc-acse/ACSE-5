@@ -20,8 +20,8 @@ In preparation for your ACSE-5 lecture on “Advanced Programming” I have the 
 
 1. 14/01 – Introduction: C++, gcc/Intel compilers, MSVC IDE, compiling and linking, static and dynamic libraries, executables, and DOS batch scripts. Makefiles versus projects. Github. Data types. (Adriana Paluszny)
 2. 17/01 – Functional programming. Functions: passing by value and reference. Recursion vs. iteration. Input/output. Pointers and References. Introduction to containers. (Steve Dargaville)
-3. 21/01 - Standard template library (STL). Introduction to objects (using objects). STL Containers: vectors, lists, maps. Introduction to Inheritance, Polymorphism & Encapsulation in C++. MSVC Debugger. Plotting with C++ (Gnuplot). First Assignment. (Adriana Paluszny)
-4. 24/01 – Object oriented programming (creating objects). Classes, constructor, destructor, copy constructor, members, Boolean operators, mutators, accessors. Making objects STL compatible. (Adriana Paluszny)  
+3. 21/01 - Standard template library (STL). Introduction to objects (using objects). STL Containers: vectors, lists, maps. MSVC Debugger. Plotting with C++ (Gnuplot). First Assignment. (Adriana Paluszny)
+4. 24/01 – Object oriented programming (creating objects). Classes, constructor, destructor, copy constructor, members, Boolean operators, mutators, accessors. Introduction to Inheritance, Polymorphism & Encapsulation in C++. Making objects STL compatible. (Adriana Paluszny)  
 5. 28/01 – 30-minute C++ History Trip. C++18. The Standards Committee. Programming paradigms. Agile. Introduction to UML. Roles in programming teams (Architect vs. programmer). (Adriana Paluszny)
 6. 31/01 – Memory management with C++. Safety and housekeeping. Applied to linear systems and matrices. BLAS/LAPACK. Second Assignment. (Steve Dargaville)
 7. 4/2 – Memory management and optimisation. Scaling. Overwriting. Introduction to templates. (Steve Dargaville)
