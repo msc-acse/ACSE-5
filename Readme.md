@@ -1,6 +1,6 @@
 # ACSE-5: Advanced Programming
 
-## Setup
+## Getting started
 
 In preparation for your ACSE-5 lecture on “Advanced Programming” I have the following instructions/info:
 - As part of our ACSE-5 we will be primarily using Microsoft Visual C++ (MSVC), an IDE (integrated development environment) for the C++ programming language (https://en.wikipedia.org/wiki/Microsoft_Visual_Studio). 
