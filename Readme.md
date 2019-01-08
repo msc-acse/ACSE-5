@@ -33,10 +33,10 @@ In preparation for your ACSE-5 lecture on “Advanced Programming” I have the 
 
 ## Team
 
-- Dr Adriana Paluszny - Royal Society Research Fellow - computational scientist & C++ devotee 
-- Dr Steve Dargaville - Post-doctoral Research Associate - numerical methods connoisseur & advanced programmer
-- Robin Thomas - Research Assistant, PhD Candidate & C++ expert
-- Cristina Saceanu - PhD Student & C++ enthusiast
+- Dr Adriana Paluszny - Royal Society Research Fellow - computational scientist and C++ devotee 
+- Dr Steve Dargaville - Post-doctoral Research Associate - numerical methods connoisseur and advanced programmer
+- Robin Thomas - Research Assistant, PhD Candidate and C++ expert
+- Cristina Saceanu - PhD Student and C++ enthusiast
 
 ## Assignments 
 1. Climate Change Focus: How can we predict temperature changes?
