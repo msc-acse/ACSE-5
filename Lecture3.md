@@ -18,8 +18,12 @@
 - Maps and Multimaps
 - Sets and Multisets
 
-### MSVC Debugger. 
+### Execution modalities
 - What is a debugger and what is it used for?
+- Why debug? ::bug::
+- Preconditioners (Project settings)
+- Debug vs Release
+- assert
 
 ### Plotting with C++ (Gnuplot). 
 - How can I plot a simple graph with C++?
