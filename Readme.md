@@ -33,7 +33,7 @@ In preparation for your ACSE-5 lecture on “Advanced Programming” I have the 
 
 ## Team
 
-- Dr Adriana Paluszny - Royal Society Research Fellow - computational scientist by day and C++ devotee by night
+- Dr Adriana Paluszny - Royal Society Research Fellow - computational scientist and C++ devotee 
 - Dr Steve Dargaville - Post-doctoral Research Associate - numerical methods connoisseur & advanced programmer
 - Robin Thomas - Research Assistant and PhD Candidate & C++ expert
 - Cristina Saceanu - PhD Student & C++ enthusiast
