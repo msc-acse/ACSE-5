@@ -1,5 +1,14 @@
 # ACSE-5: Advanced Programming
 
+## Getting started 
+This module starts with a primer on C++ programming, and will teach you how to develop and build C++ programs. Students will be taught functions and input/output handling, as well as memory handling concepts such as pointers, memory allocation and advanced data structures such as linked lists and trees.
+
+You will be taught practical skills for analysing software for potential bugs as well as quickly locating bugs when they arise using debuggers. Additionally, you will learn how to use profiling techniques to identify performance hotspots in software and gain a practical understanding of the factors that limit the performance of software.
+
+This will be followed by an introduction to object-oriented programming with C++ including how to define and use classes, inheritance, overloaded functions and polymorphism.
+
+These will all be taught in the context of scientific programming and numerical methods, with relevant examples and exercises being used to illustrate the programming concepts. Regular programming assignments will bring together all the skills that will be learned throughout the course and build upon the skills taught in the previous programming and numerical methods courses as part of the ACS MSc. 
+
 ## Getting started
 
 In preparation for your ACSE-5 lecture on “Advanced Programming” I have the following instructions/info:
@@ -45,7 +54,9 @@ For those that love the touch of paper, we suggest:
 - Robin Thomas - Research Assistant, PhD Candidate and C++ expert
 - Cristina Saceanu - PhD Student and C++ enthusiast
 
-## Assignments 
+## Assignments and Evaluation
+
+There will be one computer-based programming class test (30%) and three equally weighted computer-based coursework assignments (23.3% each):
 1. Climate Change Focus: How can we predict temperature changes?
 2. Implementing the Cholesky decomposition method.
 3. Implementing a medical imaging filter.
