@@ -35,17 +35,17 @@ For those that love the touch of paper, we suggest:
 ## Lecture Plan 
 
 1. 14/01 – Introduction: C++, gcc/Intel compilers, MSVC IDE, compiling and linking, static and dynamic libraries, executables, and DOS batch scripts. Makefiles versus projects. Github. Data types. (Adriana Paluszny)
-2. 17/01 – Functional programming. Functions: passing by value and reference. Recursion vs. iteration. Input/output. Pointers and References. Introduction to containers. (Steven Dargaville)
-3. 21/01 - Standard template library (STL). Introduction to objects (using objects). STL Containers: vectors, lists, maps. MSVC Debugger. Plotting with C++ (Gnuplot). First Assignment. (Adriana Paluszny)
+2. 17/01 – Functional programming. Functions: passing by value and reference. Recursion vs. iteration. Input/output. Pointers and References. Introduction to containers. (Steven Dargaville) 
+3. 21/01 - Standard template library (STL). Introduction to objects (using objects). STL Containers: vectors, lists, maps. MSVC Debugger. Plotting with C++ (Gnuplot). (Adriana Paluszny)
 4. 24/01 – Object oriented programming (creating objects). Classes, constructor, destructor, copy constructor, members, Boolean operators, mutators, accessors. Introduction to Inheritance, Polymorphism & Encapsulation in C++. Making objects STL compatible. (Adriana Paluszny)  
 5. 28/01 – 30-minute C++ History Trip. C++18. The Standards Committee. Programming paradigms. Agile. Introduction to UML. Roles in programming teams (Architect vs. programmer). (Adriana Paluszny)
 6. 31/01 – Memory management with C++. Safety and housekeeping. Applied to linear systems and matrices. BLAS/LAPACK. Second Assignment. (Steven Dargaville)
 7. 4/2 – Memory management and optimisation. Scaling. Overwriting. Introduction to templates. (Steven Dargaville)
 8. 7/2 – Polymorphism in C++. Sparse CSR Formats. Introduction to PETSc. (Steven Dargaville)
 9. 11/2 – Templates. Reference Counting. Dense and iterative methods for matrix inversion. (Steven Dargaville)
-10. 14/2 – Image processing and filters. The visualisation toolkit (VTK). Third assignment. (Adriana Paluszny)
-11. 18/2 – Wavelets (Steven Dargaville)
-12. 21/2 – An introduction to the architecture of a commercial Medical Imaging cloud-based software developed in C++. (Adriana Paluszny + External Speaker)
+10. 14/2 – Wavelets (Steven Dargaville). An introduction to image processing and filters. (Adriana Paluszny)
+11. 18/2 – An introduction to the architecture of a commercial Medical Imaging cloud-based software developed in C++. (Adriana Paluszny + External Speaker)
+12. 21/2 – Computer-based programming class test.
 
 ## Team
 
@@ -56,10 +56,12 @@ For those that love the touch of paper, we suggest:
 
 ## Assignments and Evaluation
 
-There will be one computer-based programming class test (30%) and three equally weighted computer-based coursework assignments (23.3% each):
-1. Climate Change Focus: How can we predict temperature changes?
-2. Implementing the Cholesky decomposition method.
-3. Implementing a medical imaging filter.
+There will be three equally weighted computer-based coursework assignments (23.3% each). These can be completed individually or in pairs. Submission will be via GitHub [details will follow].
+1. Climate Change Focus: How can we predict temperature changes? [[Due: 23/01]]
+2. Implementing the Cholesky decomposition method. [[Due: 06/02]]
+3. Implementing a medical imaging filter. [[Due: 20/02]]
+
+There will be one computer-based programming class test (30%). The 'exam' will be a piece of coursework to be developed in-class during our last session. [[On: 21/02]]
 
 ## Feedback and Questions
 - You can send any questions/feedback to Adriana (apaluszn@imperial.ac.uk) or Steven (s.dargaville@imperial.ac.uk) or ask any of the team members directly during class.
