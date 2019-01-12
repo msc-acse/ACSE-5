@@ -56,7 +56,7 @@ For those that love the touch of paper, we suggest:
 
 ## Assignments and Evaluation
 
-There will be three equally weighted computer-based coursework assignments (23.3% each). These can be completed individually or in pairs. Submission will be via GitHub [details will follow].
+There will be three equally weighted computer-based coursework assignments (23.3% each). These must be completed individually. Submission will be via GitHub [details will follow].
 1. Climate Change Focus: How can we predict temperature changes? [[Due: 23/01]]
 2. Implementing the Cholesky decomposition method. [[Due: 06/02]]
 3. Implementing a medical imaging filter. [[Due: 20/02]]
