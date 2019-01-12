@@ -15,10 +15,6 @@ During this class we will be discussing the structure of the course and we will 
 - Pointers: with great power comes great responsibility
 - User-generated types: Objects
 
-### Basic input and output to console
-- Getting started
-- The IO Library - http://www.martinbroadhurst.com/stl/standard_library.html
-
 ### Compiling and Linking 1: Creating an executable
 - Makefiles versus projects.
 - Definition of compiling and linking.
@@ -37,4 +33,7 @@ During this class we will be discussing the structure of the course and we will 
 - When should I generate a library and why?
 - How do I use an existing library?
 
+### Basic input and output to console
+- Getting started
+- The IO Library - http://www.martinbroadhurst.com/stl/standard_library.html
 
