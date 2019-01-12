@@ -1,11 +1,11 @@
 ## Lecture 1
 
-During this class we will be discussing the structure of the course and we will learn the basics of the C++ programming language. We will go over the C++ data types and we will learn how to create a simple C++ programme. We will be roughly following Chapters 1, 2 and 3 of [Stroustrup's Programming -- Principles and Practice Using C++]( http://www.stroustrup.com/programming.html). The sequence of the lecture will be as follows:
+During this class we will be discussing the structure of the course and we will learn the basics of the C++ programming language. We will go over the C++ data types and we will learn how to create a simple C++ programme. We will be roughly following Chapters 1, 2 and 3 of [Stroustrup's Programming -- Principles and Practice Using C++]( http://www.stroustrup.com/programming.html). This lecture will be taught by [Adriana Paluszny](www.imperial.ac.uk/people/apaluszn). The sequence of the lecture will be as follows:
  
 ###  Introduction to C++: The big picture
 - Who created it and when/why?
 - Who uses C++?
-- Why is C++ so powerful?
+- Why is C++ so powerful? 
 - Why learn C++?
 - An online C++ shell: cpp.sh
 
@@ -26,12 +26,6 @@ During this class we will be discussing the structure of the course and we will 
 - Editing code.
 - What is an integrated development environment? Example: MSVC IDE
 - Why use it?
-
-### Compiling and Linking 2: Creating a library
-- Types of memory.
-- Creating static and dynamic libraries.
-- When should I generate a library and why?
-- How do I use an existing library?
 
 ### Basic input and output to console
 - Getting started
