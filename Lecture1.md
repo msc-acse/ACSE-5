@@ -1,7 +1,7 @@
 ## Lecture 1
 
-During this class we will be discussing the structure of the course and we will learn the basics of the C++ programming language. We will go over the C++ data types and we will learn how to create a simple C++ programme. We will be roughly following Chapters 1, 2 and 3 of [Stroustrup's Programming -- Principles and Practice Using C++]( http://www.stroustrup.com/programming.html).
-
+During this class we will be discussing the structure of the course and we will learn the basics of the C++ programming language. We will go over the C++ data types and we will learn how to create a simple C++ programme. We will be roughly following Chapters 1, 2 and 3 of [Stroustrup's Programming -- Principles and Practice Using C++]( http://www.stroustrup.com/programming.html). The sequence of the lecture will be as follows:
+ 
 ###  Introduction to C++: The big picture
 - Who created it and when/why?
 - Who uses C++?
