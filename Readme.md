@@ -15,7 +15,7 @@ In preparation for your ACSE-5 lecture on “Advanced Programming” I have the 
 - As part of our ACSE-5 we will be primarily using Microsoft Visual C++ (MSVC), an IDE (integrated development environment) for the C++ programming language (https://en.wikipedia.org/wiki/Microsoft_Visual_Studio). 
 - The most basic edition of Visual Studio, the Community edition, is available free of charge. This is available for Windows and Mac operating systems. Please notice that this is different from "Microsoft Visual Code" which is only an editor, and not an IDE.
 - Please install Microsoft Visual Studio Community 2017 in your laptops (https://visualstudio.microsoft.com/vs/community/). The installation may take a few hours. After you download the install program for Visual Studio 2017 and run it, you will be presented with a screen (see attached screenshot). Select the option to install "Desktop development with C++”. After installing MSVC make sure that you can create and save a file to a local folder.
-- If you do not have a Windows or Mac system (Linux) OR if you cannot install MSVC for space or any other reason, please send me an email as soon as possible (apaluszn@imperial.ac.uk).
+- If you do not have a Windows system (Mac or Linux) OR if you cannot install MSVC for space or any other reason, please send me an email as soon as possible (apaluszn@imperial.ac.uk).
 - During our first class, next Monday, we will make sure that everyone has access to the MSVC IDE, and we will get started on some simple IDE tasks to set us up for the term. 
 
 ## Reference Sites
