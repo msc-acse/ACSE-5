@@ -28,9 +28,9 @@ In preparation for your ACSE-5 lecture on “Advanced Programming” I have the 
 ## Reference Books
 
 For those that love the touch of paper, we suggest:
+- (*most used*) Bjarne Stroustrup: Programming -- Principles and Practice Using C++. Second Edition (2014). Addison-Wesley. 1312 pages. 
 - Stanley Lippman, Josée Lajoie, and Barbara E. Moo: C++ Primer (updated for C++11) Fifth edition (2012). Addison Wesley. 976 pages.
 - Bjarne Stroustrup: A Tour of C++. Second Edition (2018). Addison-Wesley. 240 pages. 
-- Bjarne Stroustrup: Programming -- Principles and Practice Using C++. Second Edition (2014). Addison-Wesley. 1312 pages. 
 
 ## Lecture Plan 
 
