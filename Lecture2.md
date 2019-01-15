@@ -22,7 +22,7 @@ This lecture will be taught by Steve Dargaville.
 
 ### Input/output. 
 - Input and output to files
-- <fstream>, <ifstream>, <ofstream>
+- *fstream*, *ifstream*, *ofstream*
 - How to read and write from a file
 - Text vs. binary files
 - Where is it created (within the computer architecture)?
