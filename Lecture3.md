@@ -7,7 +7,7 @@
 - Suggested reading: http://www.martinbroadhurst.com/stl/stl_introduction.html 
 - The STL provides us with an extension of data types. Arguably one of the most useful libraries when programming in C++. 
 - Containers and algorithms
-- Iterators
+- Iterators and 'for' loop syntaxis
 - Concepts and Modelling
 - Refinement 
 
@@ -30,4 +30,4 @@
 ### Plotting with C++ (Gnuplot). 
 - How can I plot a simple graph with C++?
 
-### First Assignment. 
+ 
