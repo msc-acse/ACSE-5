@@ -65,6 +65,5 @@ There will be one computer-based programming class test (30%). The 'exam' will b
 
 ## Feedback and Questions
 - You can send any questions/feedback to Adriana (apaluszn@imperial.ac.uk) or Steven (s.dargaville@imperial.ac.uk) or ask any of the team members directly during class.
-- If you would like to make a question or leave feedback anonymously you can use our SuggestionOx:
-https://www.suggestionox.com/r/UcN8ib 
-Try not to hurt our feelings though ! :)
+- If you would like to make a question or leave feedback anonymously: please go to www.menti.com and use the code 74 53 1
+Try not to hurt our feelings though ! 🤓
