@@ -62,7 +62,7 @@ There will be three equally weighted computer-based coursework assignments (23.3
 - Description: [Assignment1](ACSE5-Assignment1.pdf) 
 - **Please read completely before submitting your team**
 - **Please use your city of choice to register your team** 
-- *Registered teams thus far*: London 
+- *Registered teams thus far*: London, Singapore
 2. Implementing the Cholesky decomposition method. [[Due: 06/02]]
 3. Implementing a medical imaging filter. [[Due: 20/02]]
 
