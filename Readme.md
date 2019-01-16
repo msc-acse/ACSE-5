@@ -59,6 +59,7 @@ For those that love the touch of paper, we suggest:
 There will be three equally weighted computer-based coursework assignments (23.3% each). Assignments can be completed individually or in pairs. Submission will be via GitHub [details will follow].
 1. Climate Change Focus: How can we predict temperature changes? ☀️🌤⛅️🌥☁️🌦🌧⛈🌩🌨
 ~~[[Due: 23/01]]~~ [[Due: 26/01]] [Assignment1](ACSE5-Assignment1.pdf) 
+*Registered teams thus far*: London 
 2. Implementing the Cholesky decomposition method. [[Due: 06/02]]
 3. Implementing a medical imaging filter. [[Due: 20/02]]
 
