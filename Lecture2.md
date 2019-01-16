@@ -8,10 +8,6 @@ This lecture will be taught by Steve Dargaville.
 - Advantages and limitations.
 - Basics.
 
-### Recursion vs. iteration. 
-- What are loops?
-- How can I create a loop?
-
 ### Pointers and References. 
 - What is a pointer?
 - What is a reference? 
@@ -34,8 +30,11 @@ This lecture will be taught by Steve Dargaville.
 - When is data copied?
 - When do I want data to be copied and when not?
 - How do I prevent/enforce data copy?
-- Where is it copied (within the computer architecture)?
 
+### Interpolation: rewritting code from ACS-03
+- Rewritting known algorithms in C++
+- Differences with memory allocation
+- Why might you chose one form of memory allocation over another
 
 
 
