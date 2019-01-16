@@ -4,7 +4,6 @@ This lecture will be taught by Steve Dargaville.
 
 ###  Functional programming. 
 - What are functions?
-- Functional programming languages?
 - Advantages and limitations.
 - Basics.
 
