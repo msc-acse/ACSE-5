@@ -34,7 +34,7 @@ For those that love the touch of paper, we suggest:
 
 ## Lecture Plan 
 
-1. 14/01 – Introduction: C++, setting up MSVC IDE, compiling and linking, executables. Data types. Getting started. [Lecture slides](Lecture1.pdf). [Code1](1main_hello_world.cpp). [Code2](2main_prime.cpp). (Adriana Paluszny)
+1. 14/01 – Introduction: C++, setting up MSVC IDE, compiling and linking, executables. Data types. Getting started. [Lecture slides](Lecture1.pdf) [Code1](1main_hello_world.cpp) [Code2](2main_prime.cpp) [Assignment1](ACSE5_Assignment1.pdf) (Adriana Paluszny)
 2. 17/01 – Functional programming. Functions: passing by value and reference. Recursion vs. iteration. Input/output. Pointers and References. Introduction to containers. (Steven Dargaville) 
 3. 21/01 - Standard template library (STL). Introduction to objects (using objects). STL Containers: vectors, lists, maps. MSVC Debugger. (Adriana Paluszny)
 4. 24/01 – Object oriented programming (creating objects). Classes, constructor, destructor, copy constructor, members, Boolean operators, mutators, accessors. Introduction to Inheritance, Polymorphism & Encapsulation in C++. Making objects STL compatible. (Adriana Paluszny)  
