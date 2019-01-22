@@ -63,7 +63,7 @@ There will be three equally weighted computer-based coursework assignments (23.3
 - **Please read completely before submitting your team**
 - **Please use your city of choice to register your team** 
 - *Registered teams thus far*: London, Singapore, Sydney, Vancouver, Oxford, Toronto, Sheffield, Heathrow, Durham, Cambridge, Mauna Loa, Southampton, ~~Muscat~~, Paisley, Christmas Island, Bradford, Alice Springs, Tokyo, Eastbourne, Beijing
-- Looking for a plotting solution? Try downloading gnuplot, and use this code to get started [CodeGNUPLOT](10gnuplot.cpp)
+- Looking for a plotting solution? Try downloading [gnuplot](http://www.gnuplot.info), and use this code to get started [CodeGNUPLOT](10gnuplot.cpp)
 2. Implementing the Cholesky decomposition method. [[Due: 06/02]]
 3. Implementing a medical imaging filter. [[Due: 20/02]]
 
