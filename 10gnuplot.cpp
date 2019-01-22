@@ -3,13 +3,18 @@
 
 using namespace std;
 
+//example of how to plot a simple graph 
+//using gnuplot, and C++
 int main()
 {
+	//create some data
 	ofstream ofs("out.dat");
 	for (int i = 0; i < 100; i++)
 		ofs << "\n" << i << " " << i * i << " " << i*i/2;
 	ofs.close();
 
+	//create a pipe to send information to gnuplot
+	//this is possible because gnuplot supports pipes
 	FILE *gnuplotPipe = _popen("gnuplot -persist", "w");  // Open a pipe to gnuplot
 
 	if (gnuplotPipe) {   // If gnuplot is found
