@@ -1,12 +1,5 @@
-#include <iostream>		// input/output standard library
-#include <string>			// standard string library
 #include <fstream>				
-
-#include <string>
-#include <iostream>
-#include <cstdlib>
 #include <cstdio>
-#include <array>
 
 using namespace std;
 
@@ -16,6 +9,7 @@ int main()
 	for (int i = 0; i < 100; i++)
 		ofs << "\n" << i << " " << i * i << " " << i*i/2;
 	ofs.close();
+
 	FILE *gnuplotPipe = _popen("gnuplot -persist", "w");  // Open a pipe to gnuplot
 
 	if (gnuplotPipe) {   // If gnuplot is found
@@ -45,7 +39,6 @@ int main()
 		//gnuplot has a huge amount of options!
 		fprintf(gnuplotPipe, "\nexit \n");   // exit gnuplot
 		_pclose(gnuplotPipe);    //close pipe
-
 	}
 	system("pause");
 }
