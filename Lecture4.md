@@ -1,4 +1,4 @@
-## Lecture 3 
+## Lecture 4
 
 ### STL Containers, Part II
 - Iterators
