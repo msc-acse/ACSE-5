@@ -12,9 +12,6 @@
 - *assert*
 - Debug (testing) vs. Release (deployment)
 
-### Plotting with C++ (Gnuplot). 
-- How can I plot a simple graph with C++?
-
 ### Object oriented programming, Part II
 - Copy constructor
 - Members
@@ -27,6 +24,9 @@
 - Polymorphism 
 - Encapsulation 
 - Making objects STL compatible
+
+### Plotting with C++ (Gnuplot). 
+- How can I plot a simple graph with C++?
 
 
 
