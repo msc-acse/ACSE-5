@@ -5,7 +5,7 @@ using namespace std;
 
 //example of how to plot a simple graph 
 //using gnuplot, and C++
-int main()
+/*int main()
 {
 	//create some data
 	ofstream ofs("out.dat");
@@ -46,4 +46,4 @@ int main()
 		_pclose(gnuplotPipe);    //close pipe
 	}
 	system("pause");
-}
+}*/
