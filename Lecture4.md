@@ -15,4 +15,19 @@
 ### Plotting with C++ (Gnuplot). 
 - How can I plot a simple graph with C++?
 
+### Object oriented programming, Part II
+- Copy constructor
+- Members
+- Boolean operators
+- Mutators
+- Accessors
+
+### Object oriented programming, Part III
+- Introduction to Inheritance
+- Polymorphism 
+- Encapsulation 
+- Making objects STL compatible
+
+
+
 
