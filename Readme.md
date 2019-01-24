@@ -58,7 +58,7 @@ For those that love the touch of paper, we suggest:
 
 There will be three equally weighted computer-based coursework assignments (23.3% each). Assignments can be completed individually or in pairs. Submission will be via GitHub [details will follow].
 1. Climate Change Focus: How can we predict temperature changes? ☀️🌤⛅️🌥☁️🌦🌧⛈🌩🌨
-- ~~[[Due: 23/01]]~~ [[Due: 26/01]] 
+- ~~[[Due: 23/01]]~~ ~~[[Due: 26/01]]~~ midnight of Sunday 27th of January 
 - Description: [Assignment1](ACSE5-Assignment1.pdf) 
 - **Please read completely before submitting your team**
 - **Please use your city of choice to register your team** 
