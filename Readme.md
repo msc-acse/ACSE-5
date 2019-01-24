@@ -67,7 +67,7 @@ There will be three equally weighted computer-based coursework assignments (23.3
 2. Implementing the Cholesky decomposition method. [[Due: 06/02]]
 3. Implementing a medical imaging filter. [[Due: 20/02]]
 
-There will be one computer-based programming class test (30%). The 'exam' will be a piece of coursework to be developed in-class during our last session, and shall be completed individually. [[On: 21/02]] 
+There will be one computer-based programming **final coursework** (30%). The final piece of coursework will be to be completed in-class during our last session, and shall be submitted individually. You will be able to make use of all the code you have written for any previous assignments; you will also have access to the internet during the assignment. [[On: 21/02]] 
 
 ## Feedback and Questions
 - You can send any questions/feedback to Adriana (apaluszn@imperial.ac.uk) or Steven (s.dargaville@imperial.ac.uk) or ask any of the team members directly during class.
