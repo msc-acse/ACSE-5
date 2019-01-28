@@ -29,7 +29,7 @@
 
 ## STL Library: Part III
 - What happens when I erase items from my containers?
-- How expensive is it to erase()? (use the profiler)
+- How expensive is it to add and erase items? (use the profiler)
 - Introduction to some useful STL algorithms
-- sort, find, search, copy 
+- find, copy, sort
 
