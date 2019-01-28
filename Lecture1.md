@@ -15,6 +15,12 @@ During this class we will be discussing the structure of the course and we will 
 - Pointers: with great power comes great responsibility
 - User-generated types: Objects
 
+## Basic control mechanisms
+- if/else
+- switch ('if' statement with many options)
+- while loops
+- for loops
+
 ### Compiling and Linking 1: Creating an executable
 - Makefiles versus projects.
 - Definition of compiling and linking.
