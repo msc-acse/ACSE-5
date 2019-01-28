@@ -1,6 +1,12 @@
 
 ## Lecture 5
 
+## Static functions and members
+- Why do we need static members and functions?
+- Shared by all but specific to none
+- for example: minimum age of a student (not specific to any specific student)
+- calling a static function
+
 ## Data type limits
 - Errors when storing data: isnan (number is not defined, for example = sqrt(-1)
 - Errors when storing data: isinf (number is too large, >1e309)
