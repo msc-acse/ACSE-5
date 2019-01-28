@@ -45,7 +45,7 @@ For those that love the touch of paper, we suggest:
 9. 11/2 – Templates. Reference Counting. Dense and iterative methods for matrix inversion. (Steven Dargaville)
 10. 14/2 – Wavelets (Steven Dargaville). An introduction to image processing and filters. (Adriana Paluszny)
 11. 18/2 – An introduction to the architecture of a commercial Medical Imaging cloud-based software. (Adriana Paluszny + External Speaker(s))
-12. 21/2 – Computer-based programming class test.
+12. 21/2 – Computer-based programming class coursework.
 
 ## Team
 
