@@ -9,7 +9,6 @@
 ## Data type limits
 - Errors when storing data: isnan (number is not defined, for example = sqrt(-1)
 - Errors when storing data: isinf (number is too large, >1e309)
-- Notice isinf difference for int and double
 
 ## Function objects
 - What is a function object
