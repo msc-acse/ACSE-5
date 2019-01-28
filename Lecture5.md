@@ -1,11 +1,6 @@
 
 ## Lecture 5
 
-## Advanced selection statement 
-- What if I need to create an 'if' statement with many options?
-- Is there a way to do this in a centralised manner? 
-- switch statement
-
 ## Data type limits
 - Errors when storing data: isnan (number is not defined, for example = sqrt(-1)
 - Errors when storing data: isinf (number is too large, >1e309)
@@ -22,8 +17,8 @@
 - How do I connect my executable to a static library?
 - What is static linking?
 
-## Function objects
-- What is a function object
+## Functors
+- What is a functor?
 - How can I create it?
 - What is it used for?
 
