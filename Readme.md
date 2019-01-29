@@ -64,8 +64,11 @@ There will be three equally weighted computer-based coursework assignments (23.3
 - **Please use your city of choice to register your team** 
 - *Registered teams thus far*: London, Singapore, Sydney, Vancouver, Oxford, Toronto, Sheffield, Heathrow, Durham, Cambridge, Mauna Loa, Southampton, ~~Muscat~~, Paisley, Christmas Island, Bradford, Alice Springs, Tokyo, Eastbourne, Beijing
 - ⚡️⚡️⚡️ Looking for a plotting solution? Try downloading [gnuplot](http://www.gnuplot.info), and use this code to get started [CodeGNUPLOT](10gnuplot.cpp)⚡️⚡️⚡️
-2. Implementing a medical imaging filter. ~~[[Due: 08/02]]~~ midnight of Sunday 10th of February  
+
+2. Implementing a medical imaging filter. ~~[[Due: 08/02]]~~ midnight of Sunday 10th of February  (popular demand)
 - Description: [Assignment2](ACSE5-Assignment2.pdf) 
+- Create your team here: https://classroom.github.com/g/QrX-msjE (Yes, you can pick the same team as before, or a new team)
+
 3. Implementing the Cholesky decomposition method. [[Due: 20/02]]
 
 There will be one computer-based programming **final coursework** (30%). The final piece of coursework will be to be completed in-class during our last session, and shall be submitted individually. You will be able to make use of all the code you have written for any previous assignments; you will also have access to the internet during the assignment. [[On: 21/02]] 
