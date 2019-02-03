@@ -40,7 +40,7 @@ For those that love the touch of paper, we suggest:
 4. 24/01 – Object oriented programming (creating objects). Copy constructor, members, operators, mutators, accessors. MSVC Debugger. Introduction to Inheritance, Polymorphism & Encapsulation in C++. [Slides4](Lecture4.pdf) [Code8](10debug.cpp)  [Code9](10gnuplot.cpp) [Code11](11operators.cpp) [Code12](12class_copy_etal.cpp) [Code13](main_mandelbrot.cpp) [Code](Adriana Paluszny)  
 5. 28/01 – **updated!** Libraries (static). Inheritance: Pure virtual functions (Creating interface objects). Function objects. STL Library: erase(), algorithms. Also: switch, isnan, isinf. Revisiting header and source files. [Code14](lecture5_code%202.zip) [Slides5](Lecture5.pdf) [Slides_ExtensiveReview](Lecture5-ExtensiveReview.pdf) [Slides_SummaryReview](Lecture5-SummaryReview.pdf) **[Homework](homework_lecture5.pdf)** [Glossary](http://www.stroustrup.com/glossary.html) (Adriana Paluszny)
 6. 31/01 – Memory management with C++ and cache hierarchy. Applied to linear systems and matrices. BLAS/LAPACK. Second Assignment. (Steven Dargaville)
-7. 4/2 – Memory management and optimisation. Scaling. Overwriting. Introduction to templates. (Steven Dargaville)
+7. 4/2 – More on BLAS/LAPACK. Assembly and optimisation. Vectorisation/MMX/SSE/SSE2. Introduction to templates. (Steven Dargaville)
 8. 7/2 – Polymorphism in C++. Sparse CSR Formats. Introduction to PETSc. (Steven Dargaville)
 9. 11/2 – Templates. Reference Counting. Dense and iterative methods for matrix inversion. (Steven Dargaville)
 10. 14/2 – Wavelets (Steven Dargaville). An introduction to image processing and filters. (Adriana Paluszny)
