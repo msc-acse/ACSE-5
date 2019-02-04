@@ -43,7 +43,7 @@ For those that love the touch of paper, we suggest:
 7. 4/2 – More on BLAS/LAPACK. Assembly and optimisation. Vectorisation/MMX/SSE/SSE2. Introduction to templates. [Slides7](Lecture%207.pdf) (Steven Dargaville)
 8. 7/2 – Polymorphism in C++. Sparse CSR Formats. Introduction to PETSc. (Steven Dargaville)
 9. 11/2 – Templates. Reference Counting. Dense and iterative methods for matrix inversion. (Steven Dargaville)
-10. 14/2 – Wavelets (Steven Dargaville). An introduction to image processing and filters. (Adriana Paluszny)
+10. 14/2 – A 30-min introduction to image processing and filters. (Adriana Paluszny) Wavelets (Steven Dargaville). 
 11. 18/2 – An introduction to the architecture of a commercial Medical Imaging cloud-based software. (Adriana Paluszny + External Speaker(s))
 12. ~~21/2 – Computer-based programming class coursework.~~ Revision day.
 13. Individual in-class coursework. On: 27th of February 9:00-12:00 RSM3.01 **note classroom and date**
