@@ -45,7 +45,8 @@ For those that love the touch of paper, we suggest:
 9. 11/2 – Templates. Reference Counting. Dense and iterative methods for matrix inversion. (Steven Dargaville)
 10. 14/2 – Wavelets (Steven Dargaville). An introduction to image processing and filters. (Adriana Paluszny)
 11. 18/2 – An introduction to the architecture of a commercial Medical Imaging cloud-based software. (Adriana Paluszny + External Speaker(s))
-12. 21/2 – Computer-based programming class coursework.
+12. ~~21/2 – Computer-based programming class coursework.~~ Revision day.
+13. Individual in-class coursework. On: 27th of February 9:00-12:00 RSM3.01 **note classroom and date**
 
 ## Team
 
@@ -69,9 +70,9 @@ There will be three equally weighted computer-based coursework assignments (23.3
 - Description: [Assignment2](ACSE5-Assignment2.pdf) 
 - Create your team here: https://classroom.github.com/g/QrX-msjE (Yes, you can pick the same team as before, or a new team)
 
-3. Implementing the Cholesky decomposition method. [[Due: 20/02]]
+3. Implementing the Cholesky decomposition method. ~~[[Due: 20/02]]~~ Due: midnight of Friday 22/02
 
-There will be one computer-based programming **final coursework** (30%). The final piece of coursework will be to be completed in-class during our last session, and shall be submitted individually. You will be able to make use of all the code you have written for any previous assignments; you will also have access to the internet during the assignment. [[On: 21/02]] 
+There will be one computer-based programming **final coursework** (30%). The final piece of coursework will be to be completed in-class during our last session, and shall be submitted individually. You will be able to make use of all the code you have written for any previous assignments; you will also have access to the internet during the assignment. ~~[[On: 21/02]]~~ On: 27th of February 9:00-12:00 RSM3.01 **note classroom and date change**
 
 ## Feedback and Questions
 - You can send any questions/feedback to Adriana (apaluszn@imperial.ac.uk) or Steven (s.dargaville@imperial.ac.uk) or ask any of the team members directly during class.
