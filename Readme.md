@@ -41,7 +41,7 @@ For those that love the touch of paper, we suggest:
 5. 28/01 – **updated!** Libraries (static). Inheritance: Pure virtual functions (Creating interface objects). Function objects. STL Library: erase(), algorithms. Also: switch, isnan, isinf. Revisiting header and source files. [Code14](lecture5_code%202.zip) [Slides5](Lecture5.pdf) [Slides_ExtensiveReview](Lecture5-ExtensiveReview.pdf) [Slides_SummaryReview](Lecture5-SummaryReview.pdf) **[Homework](homework_lecture5.pdf)** [Glossary](http://www.stroustrup.com/glossary.html) (Adriana Paluszny)
 6. 31/01 – Memory management with C++ and cache hierarchy. Applied to linear systems and matrices. BLAS/LAPACK. Second Assignment. [Slides6](Lecture%206.pdf) [Code](lecture%206%20code.zip) (Steven Dargaville)
 7. 4/2 – More on BLAS/LAPACK. Assembly and optimisation. Vectorisation/MMX/SSE/SSE2. Introduction to templates. [Slides7](Lecture%207.pdf) [Code](lecture%207%20code.zip) (Steven Dargaville)
-8. 7/2 – Polymorphism in C++. Sparse CSR Formats. Introduction to PETSc. (Steven Dargaville)
+8. 7/2 – Polymorphism in C++. Sparse Matrix Formats. Introduction to PETSc. (Steven Dargaville)
 9. 11/2 – Templates. Reference Counting. Dense and iterative methods for matrix inversion. (Steven Dargaville)
 10. 14/2 – A 30-min introduction to image processing and filters. (Adriana Paluszny) Wavelets (Steven Dargaville). 
 11. 18/2 – An introduction to the architecture of a commercial Medical Imaging cloud-based software. (Adriana Paluszny + External Speaker(s))
