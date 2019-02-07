@@ -44,7 +44,7 @@ For those that love the touch of paper, we suggest:
 8. 7/2 – Polymorphism in C++. Sparse Matrix Formats. Introduction to PETSc. [Slides8](lecture%208.pdf) [Prelim. Code](lecture%208%20code%20prelim.zip) [Code](lecture%208%20code%20full.zip) (Steven Dargaville)
 9. 11/2 – Templates. Reference Counting. Dense and iterative methods for matrix inversion. (Steven Dargaville)
 10. 14/2 – A 30-min introduction to image processing and filters. (Adriana Paluszny) Wavelets (Steven Dargaville). 
-11. 18/2 – An introduction to the architecture of a commercial **cloud-based Medical Imaging management platform**. (Adriana Paluszny + External Speakers: Biotronics3D (http://www.3dnetmedical.com/): Liam Carter, Dr Kelvin Leung, Dr Soeren Grimm) 
+11. 18/2 – An introduction to the architecture of Biotronics3D (http://www.3dnetmedical.com/): **a cloud-based Medical Imaging management platform for PACS, RIS, Teleradiology and Health Portal**. (Adriana Paluszny + External Speakers: Liam Carter, Dr Kelvin Leung, Dr Soeren Grimm) 
 12. ~~21/2 – Computer-based programming class coursework.~~ Revision day.
 13. Individual in-class coursework. On: 27th of February 9:00-12:00 RSM3.01 **note classroom and date**
 
