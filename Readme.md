@@ -70,9 +70,9 @@ There will be three equally weighted computer-based coursework assignments (23.3
 - Description: [Assignment2](ACSE5-Assignment2.pdf) 
 - Create your team here: https://classroom.github.com/g/QrX-msjE (Yes, you can pick the same team as before, or a new team)
 
-3. Implementing a linear solver. ~~[[Due: 20/02]]~~ Due: midnight of Friday 22/02
+3. Implementing a linear solver. ~~[[Due: 20/02]]~~ Due: midnight of **Friday 22/02** (earlier submissions most welcome!)
 Description: [Assignment3](ACSE5-Assignment%203.pdf)
-- Create your team here: TO BE UPDATED (Yes, you can pick the same team as before, or a new team)
+- Create your team here: https://classroom.github.com/g/T4PU9Gzc (Yes, you can pick the same team as before, or a new team)
 
 There will be one computer-based programming **final coursework** (30%). The final piece of coursework will be to be completed in-class during our last session, and shall be submitted individually. You will be able to make use of all the code you have written for any previous assignments; you will also have access to the internet during the assignment. ~~[[On: 21/02]]~~ On: 27th of February 9:00-12:00 RSM3.01 **note classroom and date change**
 
