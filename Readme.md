@@ -76,7 +76,7 @@ Description: [Assignment3](ACSE5-Assignment%203.pdf)
 
 There will be one computer-based programming **final coursework** (30%). The final piece of coursework will be to be completed in-class during our last session, and shall be submitted individually. You will be able to make use of all the code you have written for any previous assignments; you will also have access to the internet during the assignment. ~~[[On: 21/02]]~~ On: 27th of February 9:00-12:00 RSM3.01 ((**note classroom and date change**))
 
-**Mock Individual in-class Coursework** Available now 🤩 (Mock)[Mock.pdf] 🤩 Please send emails, ask questions, have a go, try it out, and happy coding ⚡️
+**Mock Individual in-class Coursework** Available now 🤩 [Mock](Mock.pdf) 🤩 Please send emails, ask questions, have a go, try it out, and happy coding ⚡️
 
 ## Feedback and Questions
 - You can send any questions/feedback to Adriana (apaluszn@imperial.ac.uk) or Steven (s.dargaville@imperial.ac.uk) or ask any of the team members directly during class.
