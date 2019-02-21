@@ -45,8 +45,7 @@ For those that love the touch of paper, we suggest:
 9. 11/2 – C++ standards. More about memory management. Reference Counting and smart pointers. [Slides9](lecture%209.pdf) [Code](lecture%209%20code.zip) (Steven Dargaville)
 10. 14/2 – A 30-min introduction to image processing and filters. (Adriana Paluszny) Wavelets [Slides10Part1](lecture%2010.pdf) [CodePart1](lecture%2010%20code.zip) (Steven Dargaville). 
 11. 18/2 – An introduction to the architecture of Biotronics3D (http://www.3dnetmedical.com/): **a cloud-based Medical Imaging management platform for PACS, RIS, Teleradiology and Health Portal**. (Adriana Paluszny + External Speakers: Dr Soeren Grimm [Slides1](Coming Soon), Liam Carter [Slides2](B3D_IC_lecture_LIAM.pdf), Dr Kelvin Leung [Slides3](B3D_IC_lecture_KL.pdf)) 
-12. ~~21/2 – Computer-based programming class coursework.~~ Revision day.
-  Some revision slides:(pesona.mmu.edu.my/~lkwong/lecture/tcp1201/pointers.pptx), Slide 499 is a good place to start - (https://www.ece.uvic.ca/~frodo/cppbook/downloads/lecture_slides_for_programming_in_c++-2017-02-24.pdf)
+12. ~~21/2 – Computer-based programming class coursework.~~ Revision day. Revision of Classes, Polymorphism and Inheritance [Project Pets](Project_Pets.zip) Some revision slides:(pesona.mmu.edu.my/~lkwong/lecture/tcp1201/pointers.pptx), Slide 499 is a good place to start - (https://www.ece.uvic.ca/~frodo/cppbook/downloads/lecture_slides_for_programming_in_c++-2017-02-24.pdf)
 13. Individual in-class coursework. On: 27th of February 9:00-12:00 RSM3.01 **note classroom and date**
 
 ## Team
